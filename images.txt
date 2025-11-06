@@ -1,4 +1,4 @@
-crendy/new-api:v0.9.16.2
+crendy/new-api:latest
 
 #nginx
 #支持私库
