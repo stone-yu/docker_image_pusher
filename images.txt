@@ -1,4 +1,4 @@
-#crendy/new-api:latest
+crendy/new-api:latest
 #crendy/new-api:v0.9.18
 rickysynnot/magic-lists-for-navidrome:latest
 snowdreamtech/frps:latest
