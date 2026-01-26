@@ -1,6 +1,7 @@
 crendy/new-api:latest
 crendy/new-api:v0.9.18
 rickysynnot/magic-lists-for-navidrome:latest
+snowdreamtech/frps:v0.34.1
 
 #nginx
 #支持私库
