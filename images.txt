@@ -3,7 +3,8 @@
 #rickysynnot/magic-lists-for-navidrome:latest
 #snowdreamtech/frps:latest
 #watercrawl/playwright:1.1
-watercrawl/mcp:v1.2.0
+#watercrawl/mcp:v1.2.0
+watercrawl/frontend:v0.12.1
 
 #nginx
 #支持私库
