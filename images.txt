@@ -2,6 +2,7 @@ crendy/new-api:latest
 #crendy/new-api:v0.9.18
 rickysynnot/magic-lists-for-navidrome:latest
 snowdreamtech/frps:latest
+watercrawl/playwright:1.1
 
 #nginx
 #支持私库
