@@ -4,7 +4,8 @@
 #snowdreamtech/frps:latest
 #watercrawl/playwright:1.1
 #watercrawl/mcp:v1.2.0
-watercrawl/frontend:v0.12.1
+#watercrawl/frontend:v0.12.1
+msmkls/daoliyu-music:latest
 
 #nginx
 #支持私库
