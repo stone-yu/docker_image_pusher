@@ -1,10 +1,10 @@
 #crendy/new-api:latest
-#crendy/new-api:v0.9.18
-#rickysynnot/magic-lists-for-navidrome:latest
 #snowdreamtech/frps:latest
 #watercrawl/playwright:1.1
 #watercrawl/mcp:v1.2.0
 #watercrawl/frontend:v0.12.1
+
+rickysynnot/magic-lists-for-navidrome:latest
 msmkls/daoliyu-music:latest
 
 #nginx
